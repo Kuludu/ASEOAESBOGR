@@ -3,6 +3,12 @@
 
 ~~对，是我的作业~~，关于产生式规则的介绍可以看我的这篇[博客](https://blog.kuludu.net/article/产生式表示法)。
 
+Edit: 
+
+产生式规则应该翻译成 **Production rule** 
+
+~~有道翻译坑了我~~
+
 ******
 
 * **rule_database.py** : 规则数据库
