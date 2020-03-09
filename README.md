@@ -9,3 +9,9 @@
 * **synthesis_database.py** : 综合数据库
 * **controller.py** : 控制器 
 
+***
+
+**Result:**
+
+![image](https://github.com/Kuludu/ASEOAESBOGR/blob/master/result.png)
+

@@ -14,6 +14,7 @@ def process():
 				if rule[1][1] == "1":
 					return rule[1][0]
 				else:
+					print("You know, it seems it is", rule[1][0])
 					synthesis_database.add(rule[1][0])
 			
 		if match == False:
